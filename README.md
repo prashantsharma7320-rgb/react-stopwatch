@@ -1,16 +1,50 @@
-# React + Vite
+⏱️ React Stopwatch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive stopwatch application built using React, JavaScript, and CSS.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+View Live Project
 
-## React Compiler
+✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Start the stopwatch
+* Stop and resume timing
+* Reset the timer to zero
+* Display time in minutes and seconds
+* Responsive design for mobile and desktop screens
 
-## Expanding the ESLint configuration
+🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* JavaScript
+* CSS3
+* Vite
+* Git and GitHub
+* Vercel
+
+📂 Run Locally
+
+1. Clone this repository:
+
+git clone https://github.com/prashantsharma7320-rgb/react-stopwatch.git
+
+2. Open the project folder:
+
+cd react-stopwatch
+
+3. Install dependencies:
+
+npm install
+
+4. Start the development server:
+
+npm run dev
+
+👨‍💻 Author
+
+Prashant Sharma
+
+📌 Project Purpose
+
+Built as a React practice project to learn state management, refs, event handling, and component styling.
